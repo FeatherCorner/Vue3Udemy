@@ -26,6 +26,7 @@
             <h4>Edit counter title:</h4>
     
             <input v-model="counterData.title" type="text">
+            <input v-model="counterData.amount" type="number">
     
         </div>
     
